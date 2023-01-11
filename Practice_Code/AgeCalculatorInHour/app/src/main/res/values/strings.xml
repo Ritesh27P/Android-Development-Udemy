@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">AgeCalculatorInHour</string>
+    <string name="calculate_your">Calculate Your</string>
+    <string name="age_in_hour">Age in Hours</string>
+    <string name="select_date">Select Date</string>
+    <string name="_0_0_0">0.0.0</string>
+    <string name="selected_date">Selected Date</string>
+    <string name="in_hours">In Hours</string>
+    <string name="_0">0</string>
+</resources>
